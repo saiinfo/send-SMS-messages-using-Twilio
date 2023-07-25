@@ -67,9 +67,19 @@ Twilio API in postman
 
 ![image](https://github.com/saiinfo/send-SMS-messages-using-Twilio/assets/26924010/3b016260-9116-45b2-a522-b9d8edcf186f)
 
+
+
 ![image](https://github.com/saiinfo/send-SMS-messages-using-Twilio/assets/26924010/592d7e8a-c5fc-4902-92fb-8f9d808e3afb)
 
+
+
 ![image](https://github.com/saiinfo/send-SMS-messages-using-Twilio/assets/26924010/9b38ab8f-3e93-4ad6-b76b-9ad3167bd6dd)
+
+
+Mobile Output
+
+![image](https://github.com/saiinfo/send-SMS-messages-using-Twilio/assets/26924010/235d1d30-34a6-49bc-b400-facb154f8c13)
+
 
 
 
